@@ -7,8 +7,8 @@ I'm Sam also know as NietMeerLeuk, a beginning Software Developer from The nethe
 
 - 🌱 Working on....
 
-<img src="https://github-readme-stats.vercel.app/api?username=nietmeerleuk-nl&theme=radical&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nietmeerleuk-nl&theme=radical&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=nietmeerleuk-nl&theme=dark&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nietmeerleuk-nl&theme=dark&show_icons=true" />
 
 <!--
 **xkaasplakje/xkaasplakje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
